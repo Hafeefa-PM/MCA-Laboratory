@@ -17,6 +17,6 @@ Lab Cycle 2
 2.	[Prim's Algorithm](prims.c)
 3.	[Kruskal's Algorithm](kruskals.c)
 4.	[Djikstra's Algorithm]()
-5.	[Topological Sorting]()
+5.	[Topological Sorting](topological.c)
 6.	[DFS](dfs.c)
 7.	[BFS](bfs.c)
